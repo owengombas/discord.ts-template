@@ -1,0 +1,19 @@
+{
+  "name": "discord.ts-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/Main.ts"
+  },
+  "author": "",
+  "dependencies": {
+    "@typeit/discord": "^2.0.9",
+    "discord.js": "^12.1.1",
+    "reflect-metadata": "^0.1.13",
+    "tslib": "^1.11.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.11.1"
+  }
+}
